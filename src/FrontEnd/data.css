@@ -1,0 +1,21 @@
+#colorPicker{
+  margin-bottom: 10px;
+}
+.Outer{
+  border: 4px dotted black;
+  border-radius: 5rem;
+  width: 2%;
+  padding: 50px 44px;
+  margin: 10px;
+  text-align: center;
+  margin: auto;
+}
+select option{
+  font-size: 12px;
+  text-align: center;
+}
+.Main{
+  text-align: center;
+  font-size: 20px;
+  text-shadow: 1px 1px 10px rgb(55, 55, 56);
+}
